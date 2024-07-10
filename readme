@@ -1,0 +1,9 @@
+# Currency Converter
+
+Este é um aplicativo simples de conversão de moedas escrito em Java. Ele busca taxas de câmbio de uma API e permite que o usuário converta entre diferentes moedas.
+
+## Funcionalidades
+
+- Converte entre várias moedas
+- Busca taxas de câmbio ao vivo da API Exchange Rate
+
